@@ -1,6 +1,3 @@
-```ansi
-[31mDTL[0m
-
 # 📄 DTL (Data Text Language)
 
 **.dtl is a lightweight, minimalist, and easy-to-read data serialization standard.**
@@ -25,7 +22,8 @@
 ```bash
 \ Server Configuration File \
 
-DATABASE [   STATUS = "Active",
+DATABASE [
+  STATUS = "Active",
   PORT = 5432,
   CONNECTION_CODE = DB99XX,
   BACKUP [
