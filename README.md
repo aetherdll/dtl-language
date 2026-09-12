@@ -1,3 +1,6 @@
+```ansi
+[31mDTL[0m
+
 # 📄 DTL (Data Text Language)
 
 **.dtl is a lightweight, minimalist, and easy-to-read data serialization standard.**
