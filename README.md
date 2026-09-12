@@ -1,3 +1,5 @@
+![banner](https://github.com/aetherdll/dtl-language/images/banner.png)
+
 # 📄 DTL (Data Text Language)
 
 **.dtl is a lightweight, minimalist, and easy-to-read data serialization standard.**
