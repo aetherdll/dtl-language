@@ -3,6 +3,6 @@
 SETUP [
 
   TYPE = "BANNER",
-  TYPE = "IMAGE",
+  TYPE1 = "IMAGE",
   BACKGROUND-COLOR = "WHITE"
 ]
