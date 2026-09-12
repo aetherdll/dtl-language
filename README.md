@@ -1,4 +1,4 @@
-![banner](https://github.com/aetherdll/dtl-language/images/banner.png)
+![DTL Banner](images/banner.png)
 
 # 📄 DTL (Data Text Language)
 
