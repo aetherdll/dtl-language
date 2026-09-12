@@ -20,4 +20,13 @@
 📝 Example ⁠.dtl⁠ File:
 
 ```bash
-\ Server Configuration File \  DATABASE [   STATUS = "Active",   PORT = 5432,   CONNECTION_CODE = DB99XX,   BACKUP [     AUTOMATIC = "Yes",     INTERVAL_DAYS = 7   ] ]
+\ Server Configuration File \
+
+DATABASE [   STATUS = "Active",
+  PORT = 5432,
+  CONNECTION_CODE = DB99XX,
+  BACKUP [
+    AUTOMATIC = "Yes",
+    INTERVAL_DAYS = 7
+  ]
+]
